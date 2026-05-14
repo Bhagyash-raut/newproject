@@ -27,6 +27,8 @@ cat <<EOF > /var/www/html/index.html
 <head>
 <title>AWS Server Dashboard</title>
 
+ac band kro  / ac band kro / ac chalu kro
+
 <style>
 body{
 background:#1e1e1e;

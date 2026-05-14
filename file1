@@ -9,6 +9,7 @@ sudo dnf install httpd -y
 
 mohit present
 
+mohit absent
 # Start Apache
 sudo systemctl enable httpd
 sudo systemctl start httpd

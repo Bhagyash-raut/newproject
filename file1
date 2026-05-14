@@ -9,6 +9,7 @@ sudo dnf install httpd -y
 
 mohit present
 <<<<<<< HEAD
+<<<<<<< HEAD
 sunday is holiday
 =======
 
@@ -16,6 +17,9 @@ sunday is holiday
 >>>>>>> 2d64cb4 (absent)
 =======
 >>>>>>> 2d64cb4 (absent)
+=======
+
+>>>>>>> develop
 mohit absent
 # Start Apache
 sudo systemctl enable httpd
@@ -33,6 +37,8 @@ cat <<EOF > /var/www/html/index.html
 <html>
 <head>
 <title>AWS Server Dashboard</title>
+
+ac band kro  / ac band kro / ac chalu kro
 
 <style>
 body{

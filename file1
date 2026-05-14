@@ -8,7 +8,11 @@ sudo dnf install httpd -y
 
 
 mohit present
+<<<<<<< HEAD
 sunday is holiday
+=======
+
+>>>>>>> 2d64cb4 (absent)
 mohit absent
 # Start Apache
 sudo systemctl enable httpd

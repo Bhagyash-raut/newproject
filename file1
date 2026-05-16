@@ -9,6 +9,7 @@ sudo dnf install httpd -y
 
 mohit present
 <<<<<<< HEAD
+<<<<<<< HEAD
 sunday is holiday
 =======
 
@@ -16,6 +17,9 @@ sunday is holiday
 >>>>>>> 2d64cb4 (absent)
 =======
 >>>>>>> 2d64cb4 (absent)
+=======
+
+>>>>>>> 9c40cb8 (deleted one)
 mohit absent
 # Start Apache
 sudo systemctl enable httpd
@@ -85,4 +89,8 @@ padding:10px;
 </html>
 
 EOF
+<<<<<<< HEAD
 welecome to the reality 
+=======
+
+>>>>>>> 9c40cb8 (deleted one)
